@@ -31,6 +31,8 @@ Once the server is running, go to `localhost:{PORT}` and the budget tracker shou
 
 ![](./assets/budget.png)
 
+[Here's](https://cryptic-taiga-98876.herokuapp.com/) the deployed application to see how it should work.
+
 
 ## Tests
 
